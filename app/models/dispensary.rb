@@ -1,0 +1,2 @@
+class Dispensary < ApplicationRecord
+end
