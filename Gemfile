@@ -22,6 +22,8 @@ group :development, :test do
   gem 'capybara', '~> 2.13'
   gem 'selenium-webdriver'
   gem 'rspec-rails', '~> 3.7.2'
+  gem 'shoulda-matchers', '~> 3.1.2', git: 'https://github.com/thoughtbot/shoulda-matchers.git',
+  branch: 'rails-5'
 end
 
 group :development do
