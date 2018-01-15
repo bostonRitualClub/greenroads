@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180113212750) do
+ActiveRecord::Schema.define(version: 20180114034116) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -46,12 +46,15 @@ ActiveRecord::Schema.define(version: 20180113212750) do
     t.string "password"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "address_id"
   end
 
   create_table "dispensaries", force: :cascade do |t|
     t.string "name", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "address_id"
+    t.integer "menu_id"
   end
 
   create_table "drivers", force: :cascade do |t|
@@ -60,6 +63,7 @@ ActiveRecord::Schema.define(version: 20180113212750) do
     t.string "password", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "car_id"
   end
 
   create_table "menus", force: :cascade do |t|
@@ -67,6 +71,12 @@ ActiveRecord::Schema.define(version: 20180113212750) do
     t.jsonb "menu_data", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "dispensary_id"
   end
 
+  add_foreign_key "customers", "addresses"
+  add_foreign_key "dispensaries", "addresses"
+  add_foreign_key "dispensaries", "menus"
+  add_foreign_key "drivers", "cars"
+  add_foreign_key "menus", "dispensaries"
 end
