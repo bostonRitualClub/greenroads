@@ -1,7 +1,7 @@
 {
     "menu": {
         "provider_id": "420",
-        "name": "SIRA Naturals",
+        "name": "SIRA Naturals - Cambridge",
         "option_groups": [
             {
                 "option_group": {
@@ -554,7 +554,7 @@
                                 "name": "Kickback",
                                 "description": "BAM. Kicked-back, motherfucker",
                                 "option_groups": [
-                                    "kick_back"
+                                    "zoot_drops"
                                 ]
                             }
                         },
@@ -564,7 +564,7 @@
                                 "name": "Orangegrass",
                                 "description": "Like grassy oranges.",
                                 "option_groups": [
-                                    "orangegrass"
+                                    "zoot_drops"
                                 ]
                             }
                         }
@@ -668,7 +668,7 @@
                         },
                         {
                             "item": {
-                                "provider_id": "concentrates_cartridges.cartridges.citrus",
+                                "provider_id": "citrus",
                                 "name": "Citrus",
                                 "description": "Cartridge",
                                 "option_groups": [
@@ -678,7 +678,7 @@
                         },
                         {
                             "item": {
-                                "provider_id": "concentrates_cartridges.cartridges.og_kush",
+                                "provider_id": "og_kush",
                                 "name": "OG Kush",
                                 "description": "Blueberry",
                                 "option_groups": [
@@ -688,7 +688,7 @@
                         },
                         {
                             "item": {
-                                "provider_id": "concentrates_cartridges.battery",
+                                "provider_id": "concentrates_cartridges_battery",
                                 "name": "Battery",
                                 "description": "battery",
                                 "option_groups": [
@@ -698,7 +698,7 @@
                         },
                         {
                             "item": {
-                                "provider_id": "concentrates_cartridges.charger",
+                                "provider_id": "concentrates_cartridges_charger",
                                 "name": "Charger",
                                 "description": "charger",
                                 "option_groups": [
