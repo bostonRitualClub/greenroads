@@ -1,0 +1,99 @@
+{
+  "order": {
+    "items": [
+      {
+        "item": {
+          "category_id": "indica",
+          "category_group_id": "flowers",
+          "name": "88 G13 Hashplant",
+          "provider_id": "88G13hashplant",
+          "options": [
+            {
+              "option": {
+                "metadata": {
+                },
+                "provider_id": "quarter",
+                "option_group_id": "super_flower"
+              }
+            }
+          ],
+          "quantity": 1
+        }
+      },
+      {
+        "item": {
+          "category_id": "brownies",
+          "category_group_id": "edibles",
+          "name": "Brownies",
+          "provider_id": "brownies",
+          "options": [
+            {
+              "option": {
+                "provider_id": "6pk",
+                "option_group_id": "brownies"
+              }
+            }
+          ],
+          "quantity": 1
+        }
+      },
+      {
+        "item": {
+          "category_id": "cartridges",
+          "category_group_id": "concentrates_cartridges",
+          "name": "Dream",
+          "provider_id": "dream",
+          "options": [
+            {
+              "option": {
+                "provider_id": "regular_cartridges",
+                "option_group_id": "regular_cartridges"
+              }
+            }
+          ],
+          "quantity": 1
+        }
+      },
+      {
+        "item": {
+          "category_id": "sativa",
+          "category_group_id": "flowers",
+          "name": "Tangie",
+          "provider_id": "tangie",
+          "options": [
+            {
+              "option": {
+                "metadata": {
+                },
+                "provider_id": "quarter",
+                "option_group_id": "regular_flower"
+              }
+            }
+          ],
+          "quantity": 1
+        }
+      }
+    ],
+    "id": "123456789",
+    "special_instructions": "please call cellphone",
+    "tip": 300,
+    "customer": {
+      "email": "foo@bar.com",
+      "first_name": "Foo",
+      "gender": "female",
+      "last_name": "Bar",
+      "phone": "9998887777"
+    },
+    "driver": {
+      "email": "baz@boo.com",
+      "first_name": "BAZ",
+      "gender": "male",
+      "last_name": "BOO",
+      "phone": "1112223333",
+      "car_id": "524442"
+    },
+    "local_area_time": "2018-01-08T18:40Z",
+    "expected_delivery_time": "2018-01-08T19:20Z",
+    "cc_state": "Massachusetts"
+  }
+}

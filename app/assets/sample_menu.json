@@ -1,0 +1,735 @@
+{
+    "menu": {
+        "provider_id": "420",
+        "name": "SIRA Naturals - Cambridge",
+        "option_groups": [
+            {
+                "option_group": {
+                    "provider_id": "regular_flower",
+                    "name": "Regular grade greens",
+                    "options": [
+                        {
+                            "option": {
+                                "provider_id": "preroll",
+                                "name": "Preroll Joints",
+                                "price": 1200
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "eighth",
+                                "name": "3.5 grams",
+                                "price": 4500
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "quarter",
+                                "name": "7 grams",
+                                "price": 8500
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "half",
+                                "name": "1/2 ounce",
+                                "price": 16500
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "o",
+                                "name": "1 ounce",
+                                "price": 32500
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "option_group": {
+                    "provider_id": "super_flower",
+                    "name": "Super grade greens",
+                    "options": [
+                        {
+                            "option": {
+                                "provider_id": "preroll",
+                                "name": "Preroll Joints",
+                                "price": 1500
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "eighth",
+                                "name": "3.5 grams",
+                                "price": 6000
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "quarter",
+                                "name": "7 grams",
+                                "price": 10000
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "half",
+                                "name": "1/2 ounce",
+                                "price": 18000
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "o",
+                                "name": "1 ounce",
+                                "price": 35000
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "option_group": {
+                    "provider_id": "caramels",
+                    "name": "Caramels",
+                    "options": [
+                        {
+                            "option": {
+                                "provider_id": "3.5mg_15pc",
+                                "name": "3.5mg at 15pc",
+                                "price": 1500
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "25mg_4pc",
+                                "name": "25mg at 4pc",
+                                "price": 3500
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "50mg_4pc",
+                                "name": "50mg at 4pc",
+                                "price": 6000
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "100mg_4pc",
+                                "name": "100mg at 4pc",
+                                "price": 10000
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "option_group": {
+                    "provider_id": "honey_sticks",
+                    "name": "Honey Stick",
+                    "options": [
+                        {
+                            "option": {
+                                "provider_id": "150mg_6stick",
+                                "name": "150mg at stick",
+                                "price": 4000
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "option_group": {
+                    "provider_id": "tintures",
+                    "name": "Tinctures",
+                    "options": [
+                        {
+                            "option": {
+                                "provider_id": "300mg",
+                                "name": "300mg",
+                                "price": 6000
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "option_group": {
+                    "provider_id": "brownies",
+                    "name": "Brownies",
+                    "options": [
+                        {
+                            "option": {
+                                "provider_id": "2pk",
+                                "name": "2 pack at 20mg",
+                                "price": 900
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "6pk",
+                                "name": "6 pack at 60mg",
+                                "price": 2100
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "option_group": {
+                    "provider_id": "zoot_rocks",
+                    "name": "Zoot Rocks",
+                    "options": [
+                        {
+                            "option": {
+                                "provider_id": "100mg",
+                                "name": "100mg",
+                                "price": 3000
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "option_group": {
+                    "provider_id": "zoot_drops",
+                    "name": "Zoot Drops",
+                    "options": [
+                        {
+                            "option": {
+                                "provider_id": "100mg",
+                                "name": "100mg",
+                                "price": 2500
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "option_group": {
+                    "provider_id": "regular_concentrates",
+                    "name": "Regular grade wax",
+                    "options": [
+                        {
+                            "option": {
+                                "provider_id": "0.5g",
+                                "name": "0.5g",
+                                "price": 3500
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "1g",
+                                "name": "1g",
+                                "price": 6650
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "1.5g",
+                                "name": "1.5g",
+                                "price": 10025
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "2g",
+                                "name": "2g",
+                                "price": 13300
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "option_group": {
+                    "provider_id": "super_concentrates",
+                    "name": "Super grade wax",
+                    "options": [
+                        {
+                            "option": {
+                                "provider_id": "0.5g",
+                                "name": "0.5g",
+                                "price": 4500
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "1g",
+                                "name": "1g",
+                                "price": 8550
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "1.5g",
+                                "name": "1.5g",
+                                "price": 12825
+                            }
+                        },
+                        {
+                            "option": {
+                                "provider_id": "2g",
+                                "name": "2g",
+                                "price": 17100
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "option_group": {
+                    "provider_id": "regular_cartridges",
+                    "name": "Regular grade cartridges",
+                    "options": [
+                        {
+                            "option": {
+                                "provider_id": "regular_cartridges",
+                                "name": "Regular grade cartridge",
+                                "price": 6000
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "option_group": {
+                    "provider_id": "super_cartridges",
+                    "name": "Super grade cartridges",
+                    "options": [
+                        {
+                            "option": {
+                                "provider_id": "super_cartridges",
+                                "name": "Super grade cartridge",
+                                "price": 7000
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "option_group": {
+                    "provider_id": "cartridges_battery",
+                    "name": "Cartridge battery",
+                    "options": [
+                        {
+                            "option": {
+                                "provider_id": "cartridges_battery",
+                                "name": "Cartridge battery",
+                                "price": 1000
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "option_group": {
+                    "provider_id": "cartridges_charger",
+                    "name": "Cartridge Charger",
+                    "options": [
+                        {
+                            "option": {
+                                "provider_id": "cartridges_charger",
+                                "name": "Cartridge battery",
+                                "price": 6000
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "categories": [
+            {
+                "category": {
+                    "provider_id": "sativa",
+                    "name": "Sativa",
+                    "category_group": "flowers",
+                    "description": "Great for daytime, mood elevation",
+                    "items": [
+                        {
+                            "item": {
+                                "provider_id": "tangie",
+                                "name": "Tangie",
+                                "description": "citrus smell, mood elevation, focus, stress/anxiety reduction, productivity",
+                                "option_groups": [
+                                    "regular_flower"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "category": {
+                    "provider_id": "indica",
+                    "name": "Indica",
+                    "category_group": "flowers",
+                    "description": "Great for Relaxation, Restful Sleep",
+                    "items": [
+                        {
+                            "item": {
+                                "provider_id": "24k",
+                                "name": "24K",
+                                "description": "Kosher Kush x Tangie - Body relaxation, mood elevation",
+                                "option_groups": [
+                                    "regular_flower"
+                                ]
+                            }
+                        },
+                        {
+                            "item": {
+                                "provider_id": "88G13hashplant",
+                                "name": "88 G13 Hashplant",
+                                "description": "Limited edition, award-winning indica",
+                                "option_groups": [
+                                    "super_flower"
+                                ]
+                            }
+                        },
+                        {
+                            "item": {
+                                "provider_id": "kushberry",
+                                "name": "Kushberry",
+                                "description": "Berry aroma, body relaxation, pleasant mental clarity, helps combat pain, insomnia and appetites loss",
+                                "option_groups": [
+                                    "regular_flower"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "category": {
+                    "provider_id": "cbd",
+                    "name": "CBD strains",
+                    "category_group": "flowers",
+                    "description": "Pain relief, less psychoactive",
+                    "items": [
+                        {
+                            "item": {
+                                "provider_id": "cbdyummy",
+                                "name": "CBD Yummy",
+                                "description": "Earthy and sweet, great for treating chronic pain, mild anxiety",
+                                "option_groups": [
+                                    "regular_flower"
+                                ]
+                            }
+                        },
+                        {
+                            "item": {
+                                "provider_id": "fourlights",
+                                "name": "Four Lights",
+                                "description": "Very high CBD:THC ratio (27:1), great for nausea, anxiety, neuropathic pain",
+                                "option_groups": [
+                                    "super_flower"
+                                ]
+                            }
+                        }
+                    ],
+                }
+            },
+            {
+                "category": {
+                    "provider_id": "caramels",
+                    "name": "Caramels",
+                    "category_group": "edibles",
+                    "description": "Chewy and sticky",
+                    "items": [
+                        {
+                            "item": {
+                                "provider_id": "caramels",
+                                "name": "Caramels",
+                                "description": "Chewy and sticky",
+                                "option_groups": [
+                                    "caramels"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "category": {
+                    "provider_id": "honey_sticks",
+                    "name": "Honey Sticks",
+                    "category_group": "edibles",
+                    "description": "Succulent and sweet",
+                    "items": [
+                        {
+                            "item": {
+                                "provider_id": "honey_sticks",
+                                "name": "Honey Stick",
+                                "description": "Succulent and Sweet",
+                                "option_groups": [
+                                    "honey_sticks"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "category": {
+                    "provider_id": "tinctures",
+                    "name": "Tinctures",
+                    "category_group": "edibles",
+                    "description": "What is tincture...?",
+                    "items": [
+                        {
+                            "item": {
+                                "provider_id": "tincture",
+                                "name": "Tincture",
+                                "description": "Tinctures",
+                                "option_groups": [
+                                    "tincture"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "category": {
+                    "provider_id": "brownies",
+                    "name": "Brownies",
+                    "category_group": "edibles",
+                    "description": "Chocolatey goodness",
+                    "items": [
+                        {
+                            "item": {
+                                "provider_id": "bronwnies",
+                                "name": "Brownies",
+                                "description": "Chocolatey goodness",
+                                "option_groups": [
+                                    "brownies"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "category": {
+                    "provider_id": "zoot_rocks",
+                    "name": "Zoot Rocks",
+                    "category_group": "edibles",
+                    "description": "Each nugget contains 5mg of THC. 20 nuggets per container.",
+                    "items": [
+                        {
+                            "item": {
+                                "provider_id": "zoot_berry",
+                                "name": "Zoot Berry",
+                                "description": "Like fruity pebbles.",
+                                "option_groups": [
+                                    "zoot_rocks"
+                                ]
+                            }
+                        },
+                        {
+                            "item": {
+                                "provider_id": "lemongrass",
+                                "name": "Lemongrass",
+                                "description": "Like grassy lemons.",
+                                "option_groups": [
+                                    "zoot_rocks"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "category": {
+                    "provider_id": "zoot_drops",
+                    "name": "Zoot Drops",
+                    "category_group": "edibles",
+                    "description": "Infused liquid drops. One capful is 5mg dose",
+                    "items": [
+                        {
+                            "item": {
+                                "provider_id": "kick_back",
+                                "name": "Kickback",
+                                "description": "BAM. Kicked-back, motherfucker",
+                                "option_groups": [
+                                    "zoot_drops"
+                                ]
+                            }
+                        },
+                        {
+                            "item": {
+                                "provider_id": "Orangegrass",
+                                "name": "Orangegrass",
+                                "description": "Like grassy oranges.",
+                                "option_groups": [
+                                    "zoot_drops"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "category": {
+                    "provider_id": "wax",
+                    "name": "Wax",
+                    "category_group": "concentrates_cartridges",
+                    "description": "waxes",
+                    "items": [
+                        {
+                            "item": {
+                                "provider_id": "apollo13",
+                                "name": "Apollo 13",
+                                "description": "THC: ~92.33",
+                                "option_groups": [
+                                    "regular_concentrates"
+                                ]
+                            }
+                        },
+                        {
+                            "item": {
+                                "provider_id": "dank_sinatra",
+                                "name": "Dank Sinatra",
+                                "description": "THC: ~95.33",
+                                "option_groups": [
+                                    "super_concentrates"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "category": {
+                    "provider_id": "shatter",
+                    "name": "Shatter",
+                    "category_group": "concentrates_cartridges",
+                    "description": "shatter",
+                    "items": [
+                        {
+                            "item": {
+                                "provider_id": "foxhole",
+                                "name": "foxhole",
+                                "description": "Super yummy gets you really fucked up",
+                                "option_groups": [
+                                    "regular_concentrates"
+                                ]
+                            }
+                        },
+                        {
+                            "item": {
+                                "provider_id": "pidgeonhole",
+                                "name": "Pidgeon Hole",
+                                "description": "Kinda yummy shit, still gets you fucked up",
+                                "option_groups": [
+                                    "super_concentrates"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "category": {
+                    "provider_id": "sap",
+                    "name": "Sap",
+                    "category_group": "concentrates_cartridges",
+                    "items": [
+                        {
+                            "item": {
+                                "provider_id": "concentrates_cartridges.sap.cbd_sap",
+                                "name": "CBD Sap",
+                                "description": "CBD sap",
+                                "option_groups": [
+                                    "regular_concentrates"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "category": {
+                    "provider_id": "cartridges",
+                    "name": "Terpene Cartridges",
+                    "category_group": "concentrates_cartridges",
+                    "items": [
+                        {
+                            "item": {
+                                "provider_id": "dream",
+                                "name": "Dream",
+                                "description": "Cartridge",
+                                "option_groups": [
+                                    "regular_cartridges"
+                                ]
+                            }
+                        },
+                        {
+                            "item": {
+                                "provider_id": "citrus",
+                                "name": "Citrus",
+                                "description": "Cartridge",
+                                "option_groups": [
+                                    "regular_cartridges"
+                                ]
+                            }
+                        },
+                        {
+                            "item": {
+                                "provider_id": "og_kush",
+                                "name": "OG Kush",
+                                "description": "Blueberry",
+                                "option_groups": [
+                                    "super_cartridges"
+                                ]
+                            }
+                        },
+                        {
+                            "item": {
+                                "provider_id": "concentrates_cartridges_battery",
+                                "name": "Battery",
+                                "description": "battery",
+                                "option_groups": [
+                                  "cartridges_battery"
+                                ]
+                            }
+                        },
+                        {
+                            "item": {
+                                "provider_id": "concentrates_cartridges_charger",
+                                "name": "Charger",
+                                "description": "charger",
+                                "option_groups": [
+                                  "cartridges_charger"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "category_groups": [
+            {
+                "category_group": {
+                    "provider_id": "flowers",
+                    "name": "Flowers"
+                }
+            },
+            {
+                "category_group": {
+                    "provider_id": "edibles",
+                    "name": "Edibles"
+                }
+            },
+            {
+                "category_group": {
+                    "provider_id": "concentrates_cartridges",
+                    "name": "Concentrates and Cartridges"
+                }
+            }
+        ],
+        "updated_at": "2017-12-28T15:26:40Z"
+    }
+}
