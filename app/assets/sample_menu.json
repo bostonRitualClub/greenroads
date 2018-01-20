@@ -380,7 +380,7 @@
                         },
                         {
                             "item": {
-                                "provider_id": "flowers.indica.88G13hashplant",
+                                "provider_id": "88G13hashplant",
                                 "name": "88 G13 Hashplant",
                                 "description": "Limited edition, award-winning indica",
                                 "option_groups": [
@@ -390,7 +390,7 @@
                         },
                         {
                             "item": {
-                                "provider_id": "flowers.indica.kushberry",
+                                "provider_id": "kushberry",
                                 "name": "Kushberry",
                                 "description": "Berry aroma, body relaxation, pleasant mental clarity, helps combat pain, insomnia and appetites loss",
                                 "option_groups": [
@@ -403,14 +403,14 @@
             },
             {
                 "category": {
-                    "provider_id": "flowers.cbd",
+                    "provider_id": "cbd",
                     "name": "CBD strains",
                     "category_group": "flowers",
                     "description": "Pain relief, less psychoactive",
                     "items": [
                         {
                             "item": {
-                                "provider_id": "flowers.cbd.cbdyummy",
+                                "provider_id": "cbdyummy",
                                 "name": "CBD Yummy",
                                 "description": "Earthy and sweet, great for treating chronic pain, mild anxiety",
                                 "option_groups": [
@@ -420,7 +420,7 @@
                         },
                         {
                             "item": {
-                                "provider_id": "flowers.cbd.fourlights",
+                                "provider_id": "fourlights",
                                 "name": "Four Lights",
                                 "description": "Very high CBD:THC ratio (27:1), great for nausea, anxiety, neuropathic pain",
                                 "option_groups": [
@@ -658,7 +658,7 @@
                     "items": [
                         {
                             "item": {
-                                "provider_id": "concentrates_cartridges.cartridges.dream",
+                                "provider_id": "dream",
                                 "name": "Dream",
                                 "description": "Cartridge",
                                 "option_groups": [
