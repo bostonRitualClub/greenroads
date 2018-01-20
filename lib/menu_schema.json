@@ -1,0 +1,113 @@
+{
+  "menu": {
+    "type": "hash",
+    "keys": {
+      "name": {
+        "type": "string"
+      },
+      "provider_id": {
+        "type": "string"
+      },
+      "option_groups": {
+        "type": "array",
+        "items": {
+          "option_group": {
+            "type": "hash",
+            "keys": {
+              "provider_id": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "options": {
+                "type": "array",
+                "items": {
+                  "option": {
+                    "type": "hash",
+                    "keys": {
+                      "provider_id": {
+                        "type": "string"
+                      },
+                      "name": {
+                        "type": "string"
+                      },
+                      "price": {
+                        "type": "integer"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "categories": {
+        "type": "array",
+        "items": {
+          "category": {
+            "type": "hash",
+            "keys": {
+              "provider_id": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "category_group": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              },
+              "items": {
+                "type": "array",
+                "items": {
+                  "item": {
+                    "type": "hash",
+                    "properties": {
+                      "provider_id": {
+                        "type": "string"
+                      },
+                      "name": {
+                        "type": "string"
+                      },
+                      "description": {
+                        "type": "string"
+                      },
+                      "option_groups": {
+                        "type": "array",
+                        "items": {
+                          "option_group_provider_id": {
+                            "type": "string"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "category_groups": {
+        "type": "array",
+        "items": {
+          "category_group": {
+            "type": "hash",
+            "keys": {
+              "provider_id": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

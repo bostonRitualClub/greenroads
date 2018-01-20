@@ -7,8 +7,6 @@
                 "option_group": {
                     "provider_id": "regular_flower",
                     "name": "Regular grade greens",
-                    "minimum_choices": 1,
-                    "maximum_choices": 1,
                     "options": [
                         {
                             "option": {
@@ -52,8 +50,6 @@
                 "option_group": {
                     "provider_id": "super_flower",
                     "name": "Super grade greens",
-                    "minimum_choices": 1,
-                    "maximum_choices": 1,
                     "options": [
                         {
                             "option": {
@@ -97,8 +93,6 @@
                 "option_group": {
                     "provider_id": "caramels",
                     "name": "Caramels",
-                    "minimum_choices": 1,
-                    "maximum_choices": 1,
                     "options": [
                         {
                             "option": {
@@ -135,8 +129,6 @@
                 "option_group": {
                     "provider_id": "honey_sticks",
                     "name": "Honey Stick",
-                    "minimum_choices": 1,
-                    "maximum_choices": 1,
                     "options": [
                         {
                             "option": {
@@ -152,8 +144,6 @@
                 "option_group": {
                     "provider_id": "tintures",
                     "name": "Tinctures",
-                    "minimum_choices": 1,
-                    "maximum_choices": 1,
                     "options": [
                         {
                             "option": {
@@ -169,8 +159,6 @@
                 "option_group": {
                     "provider_id": "brownies",
                     "name": "Brownies",
-                    "minimum_choices": 1,
-                    "maximum_choices": 1,
                     "options": [
                         {
                             "option": {
@@ -193,8 +181,6 @@
                 "option_group": {
                     "provider_id": "zoot_rocks",
                     "name": "Zoot Rocks",
-                    "minimum_choices": 1,
-                    "maximum_choices": 1,
                     "options": [
                         {
                             "option": {
@@ -210,8 +196,6 @@
                 "option_group": {
                     "provider_id": "zoot_drops",
                     "name": "Zoot Drops",
-                    "minimum_choices": 1,
-                    "maximum_choices": 1,
                     "options": [
                         {
                             "option": {
@@ -227,8 +211,6 @@
                 "option_group": {
                     "provider_id": "regular_concentrates",
                     "name": "Regular grade wax",
-                    "minimum_choices": 1,
-                    "maximum_choices": 1,
                     "options": [
                         {
                             "option": {
@@ -265,8 +247,6 @@
                 "option_group": {
                     "provider_id": "super_concentrates",
                     "name": "Super grade wax",
-                    "minimum_choices": 1,
-                    "maximum_choices": 1,
                     "options": [
                         {
                             "option": {
@@ -303,8 +283,6 @@
                 "option_group": {
                     "provider_id": "regular_cartridges",
                     "name": "Regular grade cartridges",
-                    "minimum_choices": 1,
-                    "maximum_choices": 1,
                     "options": [
                         {
                             "option": {
@@ -320,8 +298,6 @@
                 "option_group": {
                     "provider_id": "super_cartridges",
                     "name": "Super grade cartridges",
-                    "minimum_choices": 1,
-                    "maximum_choices": 1,
                     "options": [
                         {
                             "option": {
@@ -337,8 +313,6 @@
                 "option_group": {
                     "provider_id": "cartridges_battery",
                     "name": "Cartridge battery",
-                    "minimum_choices": 1,
-                    "maximum_choices": 1,
                     "options": [
                         {
                             "option": {
@@ -354,8 +328,6 @@
                 "option_group": {
                     "provider_id": "cartridges_charger",
                     "name": "Cartridge Charger",
-                    "minimum_choices": 1,
-                    "maximum_choices": 1,
                     "options": [
                         {
                             "option": {
