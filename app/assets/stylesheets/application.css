@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+ .main-content{
+   background: url('http://hdlatestwallpaper.com/wp-content/uploads/2014/03/Road-Through-Woods-wallpaper.jpg') no-repeat fixed center;
+   height: 100vh;
+   width: 100vw;
+ }
